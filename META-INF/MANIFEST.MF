@@ -1,0 +1,131 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: v0bCN+lXmy26RXu1gNnrhfbrz5B2C0nlkXRHLJxpugw=
+
+Name: assets/www/anims/dance.vrma
+SHA-256-Digest: j1f9UlcIYmFlDowKMJUJKtJ+5wUUKCbQs+8jUMpCXgQ=
+
+Name: assets/www/anims/greeting.vrma
+SHA-256-Digest: YyK74t93FlKd1T4qYYFuZ7lGQW03YcZyuNUO4oKYJbs=
+
+Name: assets/www/anims/idle_1.vrma
+SHA-256-Digest: ZKczGEbG114Bufbw+DN25q3IoV42TBLoYw/jw8/89Rg=
+
+Name: assets/www/anims/idle_2.vrma
+SHA-256-Digest: 00hwOIQooP0Z1TxwMDw5LMHahpwoYmoMhBPK+yI3UKE=
+
+Name: assets/www/anims/idle_3.vrma
+SHA-256-Digest: zFuYzQSrJZIEPC0fqxDdMFUR2alqS+VL7xF0gDPhb78=
+
+Name: assets/www/anims/idle_4.vrma
+SHA-256-Digest: rOlbptzAvfLtEIHAAjMrQYREERfI1UO29kKz0sXPmb4=
+
+Name: assets/www/anims/peace.vrma
+SHA-256-Digest: b2a2tcAhSnuCVJgFA4DqQ6P3grXqJM5G9wlqzxWGbXU=
+
+Name: assets/www/anims/pose.vrma
+SHA-256-Digest: oshmM2kOkRz5NcW4yuZVOuoERVZ/iMKGH3WX/BvwivE=
+
+Name: assets/www/anims/shoot.vrma
+SHA-256-Digest: xAwaew28rFqpWC9FSYR0JV5LDKVkKnH/r0OHjCe+33A=
+
+Name: assets/www/anims/spin.vrma
+SHA-256-Digest: zFCHEspNuIM//pgtLuzUJ+k3SgTABdsqekV3XwykVYY=
+
+Name: assets/www/anims/talking.vrma
+SHA-256-Digest: ODZwQJoMqPaiLEwFDbIakntYqYIjsbHM7dR/GWhReqk=
+
+Name: assets/www/app.js
+SHA-256-Digest: wC6HQH4lQgKE09LafFIe4BCdgGEpowP4uogwwfyjNZs=
+
+Name: assets/www/audio/funny_poke.mp3
+SHA-256-Digest: TdewqU7VQYQaOr442ZvOa2ZLD7I/RgUBmFwtLPuGOyI=
+
+Name: assets/www/audio/game_clutch.mp3
+SHA-256-Digest: 2GG3FY6IhhTosXMz+AJO9kashYjKjvMFScaBYpqP+tU=
+
+Name: assets/www/audio/good_afternoon.mp3
+SHA-256-Digest: AJKRCG8N3qqIwojnX1LZcxXS/bO5BNy2O1FeRtGgx+o=
+
+Name: assets/www/audio/good_evening.mp3
+SHA-256-Digest: +diNxCm+qiV7xmjMLdnKtQwsWoTKmJR9pMUt9hnTq00=
+
+Name: assets/www/audio/good_morning.mp3
+SHA-256-Digest: oS6frCaMakifUYHKQq1cWt5YTzsVZsalrZqhT1mkOPo=
+
+Name: assets/www/audio/good_night.mp3
+SHA-256-Digest: 8rOmx03pvzBYQAvilJS9a4+gwBVkwCS4uuhCzDa6JGY=
+
+Name: assets/www/audio/headpat.mp3
+SHA-256-Digest: QxHkp2v05zt4evtayUXQM87deKGsF7HrLxuXvSkuevo=
+
+Name: assets/www/audio/phone_boost.mp3
+SHA-256-Digest: YGy8QVrZoNLoQpa5P6LCm7ao18d7uIQ9/x1XQF3yNqg=
+
+Name: assets/www/audio/reel_food.mp3
+SHA-256-Digest: 9I1LSVxv3bD+qR1iIkjS4dpLo+eNddZ+FTOkoPta1dE=
+
+Name: assets/www/audio/reel_funny.mp3
+SHA-256-Digest: aYZVYt8KvPTnUOGaAMI1gmllHCLIFab6ksEyk6FoeHA=
+
+Name: assets/www/audio/school_wakeup.mp3
+SHA-256-Digest: f6SDPpbTUzEjeCWphX8oARDOFbYDfRXuoZQ7NfAikmU=
+
+Name: assets/www/audio/welcome.mp3
+SHA-256-Digest: M1yWZv+KfM6UVyw9+6YKilwLEx1NOP/rKfJDOh9XQRw=
+
+Name: assets/www/brain.js
+SHA-256-Digest: 3TJFbYI+VYKjEabOq6s/x4TA5xzYG35vgLCC/Bvdbx4=
+
+Name: assets/www/engine3d.bundle.js
+SHA-256-Digest: Nwe2xZspPMIdagHy1Mtue6cayx7WapAdu6EX67YPqyk=
+
+Name: assets/www/index.html
+SHA-256-Digest: aX1MU2jMf0XxRAAAuTLVldsdhjRILFmClds1LsqOpuU=
+
+Name: assets/www/models/fox.glb
+SHA-256-Digest: 2XBE5wGCK6xaYmlkWbJ9ezdaraXehXTtQ2Ltu6lHcfc=
+
+Name: assets/www/models/mikumi_academy.vrm
+SHA-256-Digest: tDD2D6JPss7j4tPEF+XsjRWyK3TbuedDlJ/kDjoJqYI=
+
+Name: assets/www/models/mikumi_nothing.vrm
+SHA-256-Digest: 14LDeTRRg+qYUHK96fBsxD+2u1l02sURFkhSY9Lv0s4=
+
+Name: assets/www/models/mikumi_streetwear.vrm
+SHA-256-Digest: rzkF8vPPgAYloBNiG02b1JW2YmVPLRaaTgnqgO1q2NQ=
+
+Name: assets/www/models/mikumi_victoria.vrm
+SHA-256-Digest: Jx3mFiTPg1zmMy6lK+4OZtuZbAA4ljlDLzu3YoxbUfo=
+
+Name: assets/www/models/mikumi_vita.vrm
+SHA-256-Digest: 9ijKKUblTNZX0HP37Q62iPjTmOn8+Cz6w3ef/KrFOQM=
+
+Name: assets/www/models/parrot.glb
+SHA-256-Digest: rcxdrgTQsWlXziC3vruE1Bw7/xwBv1qxz1bQY0W8UXA=
+
+Name: assets/www/models/robot.glb
+SHA-256-Digest: BH9eX7O7bTeL0d8WymE38qWWyZs6G1aQtAIMBar28xk=
+
+Name: assets/www/overlay3d.html
+SHA-256-Digest: S5MxQBs2XwP5l189dhQL2+s1m31DLOIAa9Gze6cf0yk=
+
+Name: assets/www/stage3d.js
+SHA-256-Digest: 2gbkhDbIh0er3YNQkjIZCxBPzjAcFoMSWTyAplUxl1w=
+
+Name: assets/www/styles.css
+SHA-256-Digest: MQIch1WnZPbkZ5VR2UT1MX8/7KdGFqPfPu0bV43QmOg=
+
+Name: classes.dex
+SHA-256-Digest: X2jMws/vjyqOkEzawfVtyuirPS60maNagdSKBYyan+4=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: GzYVrAb8riIFMdv8rS6oDuMNidt0YVjniS3ZEavvKyA=
+
+Name: res/xml/accessibility_config.xml
+SHA-256-Digest: fAZiaWsWqucbEuRI8Y/LUheIbQqTn7rgbhzGhtj1iI0=
+
+Name: resources.arsc
+SHA-256-Digest: Un5h0UC7AmvLTy5lh3exBHv+QxIaXr/JPp6FOHk/4Oc=
+
